@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO="aryswisnu/macclean"
+REPO="aryswisnu/MacClean"
 APP="MacClean.app"
 ASSET="MacClean.zip"
 URL="https://github.com/${REPO}/releases/latest/download/${ASSET}"
