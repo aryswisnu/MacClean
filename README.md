@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="assets/screenshot.png" width="90%" alt="MacClean Cleanup tab: storage overview above a list of cleanup targets with size estimates and Clean buttons">
+  <img src="assets/screenshot.png" width="90%" alt="MacClean Cleanup tab: cleanup targets with size estimates and a Clean button each">
 </p>
 
 <p align="center"><sub>Cleanup tab. Every target shows a size estimate and asks before deleting.</sub></p>
