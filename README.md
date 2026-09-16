@@ -59,7 +59,7 @@ Reclaiming space triggers a small celebration.
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aryswisnu/macclean/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/aryswisnu/MacClean/main/install.sh | bash
 ```
 
 This downloads the latest release, installs `MacClean.app` to `/Applications`
@@ -69,7 +69,7 @@ flag so the app opens on first launch.
 MacClean is ad-hoc signed, not Apple-notarized, so a freshly downloaded copy
 would otherwise be blocked by Gatekeeper. The installer clears that flag for
 you. If you prefer to do it by hand, download `MacClean.zip` from the
-[Releases page](https://github.com/aryswisnu/macclean/releases), unzip it into
+[Releases page](https://github.com/aryswisnu/MacClean/releases), unzip it into
 `/Applications`, then run `xattr -dr com.apple.quarantine /Applications/MacClean.app`.
 
 Prefer to build it yourself? See [Build](#build) below.
