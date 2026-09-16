@@ -1,8 +1,24 @@
-# MacClean
+<p align="center">
+  <img src="assets/icon.png" width="160" alt="MacClean icon">
+</p>
 
-A small, fast macOS disk cleanup utility. Reclaim space from caches, logs, and
-developer tooling, see what is eating your disk, and offload your largest files
-to an external drive or Google Drive.
+<h1 align="center">MacClean</h1>
+
+<p align="center">
+  <b>A small, fast macOS disk cleanup utility.</b><br>
+  Reclaim space from caches, logs, and developer junk, find what is eating your disk, and offload your largest files to an external drive or Google Drive.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-13.0%2B-black?logo=apple" alt="macOS 13.0+">
+  <img src="https://img.shields.io/badge/Swift-5-F05138?logo=swift&logoColor=white" alt="Swift 5">
+  <img src="https://img.shields.io/badge/dependencies-0-brightgreen" alt="zero dependencies">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT">
+</p>
+
+<p align="center"><sub>One Swift file, one build script. Nothing runs in the background; nothing is deleted or moved without asking.</sub></p>
+
+---
 
 It has two tabs. **Cleanup** clears caches, logs, and developer junk you select,
 each with a size estimate and a confirmation. **Largest Items** scans a folder,
