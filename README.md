@@ -20,6 +20,12 @@
 
 ---
 
+<p align="center">
+  <img src="assets/screenshot.png" width="90%" alt="MacClean Cleanup tab: storage overview above the cleanup targets, each with a size estimate and a Clean button">
+</p>
+
+<p align="center"><sub>Cleanup tab. Every target shows a size estimate and asks before deleting.</sub></p>
+
 It has two tabs. **Cleanup** clears caches, logs, and developer junk you select,
 each with a size estimate and a confirmation. **Largest Items** scans a folder,
 ranks the biggest files and folders, and lets you copy or move them onto an
