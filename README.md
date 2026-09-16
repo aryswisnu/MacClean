@@ -26,6 +26,12 @@
 
 <p align="center"><sub>Cleanup tab. Every target shows a size estimate and asks before deleting.</sub></p>
 
+<p align="center">
+  <img src="assets/screenshot-largest.png" width="90%" alt="MacClean Largest Items tab: the biggest files and folders ranked by size, names redacted">
+</p>
+
+<p align="center"><sub>Largest Items tab. Names redacted; sizes are real. Send any item to an external drive or Google Drive, as a copy or a move.</sub></p>
+
 It has two tabs. **Cleanup** clears caches, logs, and developer junk you select,
 each with a size estimate and a confirmation. **Largest Items** scans a folder,
 ranks the biggest files and folders, and lets you copy or move them onto an
